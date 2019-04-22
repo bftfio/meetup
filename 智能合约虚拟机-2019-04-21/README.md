@@ -22,7 +22,7 @@
 
 5. 闪电分享
 
-6. * 基于 Assemblyscript 的一个小游戏尝试  分享者：王渊命(jolestar) [slide](./assemblyscript-jolestar.pdf)
+   * 基于 Assemblyscript 的一个小游戏尝试  分享者：王渊命(jolestar) [slide](./assemblyscript-jolestar.md)
 
 
 
